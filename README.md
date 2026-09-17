@@ -6,6 +6,8 @@
 - 개발 인원: 3인 팀 프로젝트
 - 개발 환경: Unreal Engine 5.6 · C++
 
+[시연 영상](https://youtu.be/cdzJ2Jq1aNU) · [Notion](https://app.notion.com/p/349e6578029f809f892cca50447e06e4)
+
 > 팀 프로젝트 포크입니다. 원본 저장소 — [doppleddiggong/DragonBallSZ](https://github.com/doppleddiggong/DragonBallSZ)<br>
 > 아래 ‘담당 구현’은 윤여민의 작업 범위입니다. 이후 ‘팀 프로젝트 전체 설명’은 원본 README를 바탕으로 한 팀 전체 기능 설명이며, 모두 개인 담당 기능을 뜻하지는 않습니다.
 
@@ -30,9 +32,6 @@
 ![Game Title](https://github.com/doppleddiggong/DragonBallSZ/blob/main/Documents/Reference/GameTitle.jpg?raw=true)
 
 
-## 시연 영상
-
-[시연 영상 · 윤여민](https://youtu.be/cdzJ2Jq1aNU)
 
 
 
