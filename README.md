@@ -1,5 +1,13 @@
+# 드래곤볼 SZ (DragonBallSZ)
+
+드래곤볼 스파킹! 제로의 3D 공간 전투를 모작한 액션 격투 게임입니다.
+
+- 개발 기간: 2025.09.02 - 2025.09.24
+- 개발 인원: 3인 팀 프로젝트
+- 개발 환경: Unreal Engine 5.6 · C++
+
 > 팀 프로젝트 포크입니다. 원본 저장소 — [doppleddiggong/DragonBallSZ](https://github.com/doppleddiggong/DragonBallSZ)<br>
-> 아래 담당 구현은 이 저장소 소유자(윤여민)의 작업 범위이며, 그 아래 문서는 팀 공용 README입니다.
+> 아래 ‘담당 구현’은 윤여민의 작업 범위입니다. 이후 ‘팀 프로젝트 전체 설명’은 원본 README를 바탕으로 한 팀 전체 기능 설명이며, 모두 개인 담당 기능을 뜻하지는 않습니다.
 
 ## 담당 구현 — 윤여민
 
@@ -10,25 +18,21 @@
 
 ---
 
-# DragonBallSZ: A C++ UE5 Replica of "Sparking! Zero"
+## 팀 프로젝트 전체 설명
 
 [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.6.0-blue.svg)](https://www.unrealengine.com/)
 [![Language](https://img.shields.io/badge/C%2B%2B-20-blue.svg)](https://isocpp.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> **이 프로젝트는 '드래곤볼 스파킹 제로'의 핵심 전투 시스템을 언리얼 엔진 5와 C++를 사용하여 깊이 있게 재구현한 기술 중심의 개인 포트폴리오입니다.**
+> 아래에는 팀 전체의 전투 시스템과 개발 과정을 정리했습니다. 윤여민의 담당 범위는 위 ‘담당 구현’ 항목을 참고해 주세요.
 
 
 ![Game Title](https://github.com/doppleddiggong/DragonBallSZ/blob/main/Documents/Reference/GameTitle.jpg?raw=true)
 
 
-<h2>✓ 최종 결과물</h2>
+## 시연 영상
 
-<div align="left">
-  🎥 <a href="https://youtu.be/aUEw7xU_XEw">프로토 구현</a><br>
-  🎥 <a href="https://youtu.be/Fo74JgOmnWM">알파 구현</a><br>
-  🎥 <a href="https://youtu.be/W4P-xAtt1v4">베타 구현</a>
-</div>
+[시연 영상 · 윤여민](https://youtu.be/cdzJ2Jq1aNU)
 
 
 
